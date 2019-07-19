@@ -11,7 +11,7 @@ humandate: "Aug 19-20, 2019"    # human-readable dates for the workshop (e.g., "
 humantime: "8:30am-5pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-08-19      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-08-20        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Andre Geldenhuis", "Wes Harrell", "TBD"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Andre Geldenhuis", "Wes Harrell", "Caroline Johnston"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Matt Plummer", "Lisa Woods", "Max Sullivan", "TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["matt.plummer@vuw.ac.nz"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/19-08-19-vuw            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
@@ -61,6 +61,7 @@ displayed if the 'eventbrite' field in the header is not set.
   scrolling="auto">
 </iframe>
 {% endif %}
+
 
 
 <h2 id="general">General Information</h2>
@@ -139,7 +140,7 @@ Modify the block below if there are any special requirements.
 CODE OF CONDUCT
 {% endcomment %}
 <p id="code-of-conduct">
-<strong>Code of Conduct:</strong>  Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed.
+<strong>Code of Conduct:</strong>  Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed. 
 </p>
 
 
@@ -192,6 +193,11 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
+<hr/>
+
+<h2 id="registration">Registration</h2>
+
+To register for the workshop, please visit the [registration page](http://vuw.libcal.com/event/5214606) to sign up. Please also complete the pre-workshop survey below, and follow the [installation instructions](https://vuw-research-computing.github.io/2019-08-19-vuw/#setup) _before_ the event to make sure you're set to go on the day. If you have any issues, feel free to [get in touch](https://vuw-research-computing.github.io/2019-08-19-vuw/#contact).
 <hr/>
 
 {% comment %} 
