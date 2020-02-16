@@ -197,7 +197,7 @@ Display the contact email address set in the configuration file.
 
 <h2 id="registration">Registration</h2>
 
-To register for the workshop, please visit the [registration page](http://vuw.libcal.com/event/5214606) to sign up. Please also complete the pre-workshop survey below, and follow the [installation instructions](https://vuw-research-computing.github.io/2019-08-19-vuw/#setup) _before_ the event to make sure you're set to go on the day. If you have any issues, feel free to [get in touch](https://vuw-research-computing.github.io/2019-08-19-vuw/#contact).
+To register for the workshop, please visit the [registration page](https://vuw.libcal.com/event/5222979) to sign up. Please also complete the pre-workshop survey below, and follow the [installation instructions](https://vuw-research-computing.github.io/2020-02-27-vuw/#setup) _before_ the event to make sure you're set to go on the day. If you have any issues, feel free to [get in touch](https://vuw-research-computing.github.io/2019-08-19-vuw/#contact).
 <hr/>
 
 {% comment %} 
