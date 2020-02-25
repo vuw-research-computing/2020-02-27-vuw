@@ -1,3 +1,6 @@
+# Published workshop location
+[2020-02-27-vuw workshop instructions](https://vuw-research-computing.github.io/2020-02-27-vuw/)
+
 # workshop-template
 
 This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site]'s)
